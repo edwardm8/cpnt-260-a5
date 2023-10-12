@@ -14,10 +14,13 @@ nav ul {
   gap: 2rem;
 
   flex-direction: column;
-  
+
   padding: 1rem;
 }
 
+nav a {
+  padding: 1rem;
+}
 /*hide checkbox*/
 nav input {
   display: none;
